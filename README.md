@@ -1,6 +1,6 @@
 Tableau Comet Plot Dashboard
 
-This Tableau project aims to create a comet plot that visualizes sales data for the years 2021 and 2022, categorized by sub-category. The comet plot provides insights into the direction and magnitude of sales changes between the two years.
+This Tableau project aims to create a comet plot that visualizes sales data for the years 2021 and 2022, categorized by sub-category. The comet plot provides insights into the direction and magnitude of sales changes between the two years. You may access to the project by visiting https://public.tableau.com/views/WOW2023Week8CometChart_16852188497290/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
 
 Dashboard Specifications
 Size: 800 x 700 pixels
